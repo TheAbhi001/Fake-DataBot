@@ -12,9 +12,9 @@
     "success_url": "/bot.php",
     "env": {
         "BOT_TOKEN": {
-            "description": "your Telegram Bot Token, from @BotFather"
+            "description": "1486460969:AAGjScuraEhs_gTB7wuDyFw4Q9xHIzqRGMk"
         },"BOT_USERNAME": {
-            "description": "your Telegram Bot Username"
+            "description": "@FakeDataGen_Bot"
         }
     },
     "formation": {

@@ -12,9 +12,9 @@
     "success_url": "/bot.php",
     "env": {
         "BOT_TOKEN": {
-            "description": "1486460969:AAGjScuraEhs_gTB7wuDyFw4Q9xHIzqRGMk"
+            "description": ""
         },"BOT_USERNAME": {
-            "description": "@FakeDataGen_Bot"
+            "description": ""
         }
     },
     "formation": {
